@@ -1,0 +1,8 @@
+{
+  "name": "crafty",
+  "version": "0.0.1",
+  "dependencies": {
+    "crafty": "latest"
+  },
+  "private": true
+}
